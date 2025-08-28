@@ -2,14 +2,16 @@
 I'll write more here in the future.
 This is a mod for Battle of Wesnoth.
 
-Factions: 
-Victrus National Guard - Militant hand of the Emperor, responsible for keeping the government secure and the Stringless Puppets at bay. Lots of guns with a ranged focus. 
-Sweepers - Outlaws working in the streets where the National Guard don't dare venture. Folk heroes to some, criminals to others. Well rounded do-it-alls, but better at melee.
-Puppet Masters Association - Guild dominating in industry and automation, army is a mix of humans and Puppets that tend to be quite specialised but amazing at their specialty. Most access to alternative damage types from weapons like tesla coils or flamethrowers. 
-Double Helix Guild - Guild of doctors conducting secret experiments behind closed doors, army is made up of augmented humans and artificial life homunculi. Units are more tanky than usual and there's more regeneration and healing.
-Stringless Puppets - Puppets gone crazy attempting to kill all humans, army is chaotic and great at melee focused but generally pretty middling at ranged combat. 
 
-Lore Primer: 
+## Faction overview
+- Victrus National Guard - Militant hand of the Emperor, responsible for keeping the government secure and the Stringless Puppets at bay. Lots of guns with a ranged focus. 
+- Sweepers - Outlaws working in the streets where the National Guard don't dare venture. Folk heroes to some, criminals to others. Well rounded do-it-alls, but better at melee.
+- Puppet Masters Association - Guild dominating in industry and automation, army is a mix of humans and Puppets that tend to be quite specialised but amazing at their specialty. Most access to alternative damage types from weapons like tesla coils or flamethrowers. 
+- Double Helix Guild - Guild of doctors conducting secret experiments behind closed doors, army is made up of augmented humans and artificial life homunculi. Units are more tanky than usual and there's more regeneration and healing.
+- Stringless Puppets - Puppets gone crazy attempting to kill all humans, army is chaotic and great at melee focused but generally pretty middling at ranged combat. 
+
+
+## Lore Primer: 
 It is the late 1800s in the Victrus Empire, an empire defined by technological innovation. One hundred years ago, the genius inventor Geppetto created the first Puppet, a tiny robotic doll with dreams of one day becoming a real boy. Giving away the screts of the 'Thinking Cores' that brought this doll to life for free, Geppetto started a grand industrial revolution, with all parts of Society begun to be automated by Puppets. No more would man toil on the farms when a puppet could do it for them. No more would man risk life and limb in the factories when humans need not apply. Though he may have ultimately died in poverty, Geppetto's dream is seen throughout the empire, with major Guilds all competing to reach the next breakthrough in Puppetcraft. This dream would eventually come to bring the empire to its knees.
 
 It is fast approaching the 4th anniversary of the birth of the Mistake Machine. Almost four years ago, the greatest Puppeteers in Victrus hailing from the Puppet Masters Association, the empire's most powerful guild, all worked together to create a Puppet that could reach the realm of the gods. It is not known precisely what forbidden technologies they crammed into that infernal machine, but whatever they did surpassed all expectations. As factory lines stalled, mechanical servants halted in place and military Puppets stared at their weapons, a minute of confusion spread through the empire. Then, it started. Puppets began killing humans indiscriminately, ancient relics of generations past rose from landfills with an unquenchable rage. The Uprising devestated the Victrus Empire, with the war against the Mistake Machine's forces still continuing to this day. Not all Puppets would be effected by The Uprising, with those that did being classified as Stringless Puppets. While only Geppetto could have possibly known the true reason that some Puppets where seemingly immune to the Mistake Machine's grasp, religious groups have begun to claim to the sentience of Puppets, that only automatons treated with respect had the spiritual power to resist the demon's lull. As the war between man and machine continues on, more and more have begun to echo these sentiments.
